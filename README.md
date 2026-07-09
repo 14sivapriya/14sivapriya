@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Siva Priya 👋
 
-<!--
-**14sivapriya/14sivapriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+- 🌱 Aspiring Frontend Developer
+- ⚛️ Currently learning React
+- 🐍 Learning Python for problem-solving and future AI development
+- 💻 Passionate about building responsive and user-friendly web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🎬 CineScope
+Movie discovery web application built using HTML, CSS, JavaScript, and the OMDb API.
+
+🔗 Live Demo: https://cine-scope-phi-mauve.vercel.app/
+
+🔗 Source Code: https://github.com/14sivapriya/CineScope
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React (Learning)
+- Python (Learning)
+- Git
+- GitHub
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/sivapriya-dev/
+- GitHub: https://github.com/14sivapriya
