@@ -2,31 +2,48 @@
 
 ## 👩‍💻 About Me
 
-- 🌱 Aspiring Frontend Developer
-- ⚛️ Currently learning React
-- 🐍 Learning Python for problem-solving and future AI development
-- 💻 Passionate about building responsive and user-friendly web applications
+I'm an aspiring Frontend Developer passionate about building clean, responsive, and user-friendly web applications.
 
-## 🚀 Projects
+- 🌱 Currently learning React
+- 🐍 Learning Python for problem-solving and future AI development
+- 💡 Interested in modern web development and software engineering
+- 🚀 Always building projects and improving my skills
+
+---
+
+## 🚀 Featured Project
 
 ### 🎬 CineScope
-Movie discovery web application built using HTML, CSS, JavaScript, and the OMDb API.
 
-🔗 Live Demo: https://cine-scope-phi-mauve.vercel.app/
+A responsive movie discovery web application built with HTML, CSS, JavaScript, and the OMDb API.
 
-🔗 Source Code: https://github.com/14sivapriya/CineScope
+**Features**
+- 🔍 Search movies instantly
+- 🎞️ View movie details
+- ❤️ Persistent watchlist using Local Storage
+- 📱 Responsive design
+
+🌐 **Live Demo:**  
+https://cine-scope-phi-mauve.vercel.app/
+
+💻 **Source Code:**  
+https://github.com/14sivapriya/CineScope
+
+---
 
 ## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- React (Learning)
-- Python (Learning)
+- React (Currently Learning)
+- Python (Currently Learning)
 - Git
 - GitHub
 
-## 📫 Connect with Me
+---
 
-- LinkedIn: https://www.linkedin.com/in/sivapriya-dev/
-- GitHub: https://github.com/14sivapriya
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sivapriya-dev/
+- 🐙 GitHub: https://github.com/14sivapriya
